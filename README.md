@@ -2,7 +2,7 @@
 
 A simple and interactive Tic-Tac-Toe game built using React and Vite.
 
-Live version here:
+Live version here: https://voluble-jelly-fb5d88.netlify.app/
 
 ## Features
 
